@@ -59,10 +59,15 @@ plt.title("Customer Segments")
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/c358e71d-2994-4154-b901-3b7d4db6e70e)
+
 ![image](https://github.com/user-attachments/assets/297a07f5-326b-422f-bb9c-d6e9768d3701)
+
 ![image](https://github.com/user-attachments/assets/8692bb8b-6b2d-4f5a-8e7e-f17104a6ca74)
+
 ![image](https://github.com/user-attachments/assets/ee23606a-2af3-4271-a44e-b09f8d224c54)
+
 ![image](https://github.com/user-attachments/assets/9375102c-b36b-478c-815c-3c7a59532157)
+
 ![image](https://github.com/user-attachments/assets/af50d79f-9879-44f2-a48a-1582f7dd1e8f)
 
 ## Result:
