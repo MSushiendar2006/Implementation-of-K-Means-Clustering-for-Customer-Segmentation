@@ -8,11 +8,21 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import pandas and matplot libraries.
-2.Import Kmeans algorithm to solve customer segmentation.
-3.Using the for loop cluster the given data
-4.Predict the output and plot data graphs.
-5.Display the outputs
+Step 1. Start the program.
+
+Step 2. Import the necessary python libraries.
+
+Step 3. Read the dataset of Mall_Customers csv file using Pandas library.
+
+Step 4. From sklearn libraary select the cluster and import KMeans Clustering.
+
+Step 5. Find the sum of squared distance between each points and the centroid in a cluster using Elbow Method.
+
+Step 6. Plot the graph x and y as Number of Clusters and wcss respectively.
+
+Step 7. Using the matplotlib library draw the scatter plot for the given number of clusters (ie. here n_clusters = 5).
+
+Step 8. Stop the program.
 
 
 ## Program:
